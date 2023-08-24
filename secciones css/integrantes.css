@@ -1,0 +1,13 @@
+#integrantes{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 100vh;
+    background-color: black;
+}
+
+@media (max-width: 1019px) {
+    #integrantes{
+        margin-top: 20vh;
+    }
+}
